@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DevyBot101",
+    "username": "AfkBot101",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "devysmp.playwithbao.com",
-    "port": 41234,
-    "version": "1.21.11",
-    "try-creative": false
+    "ip": "mythweaver.playwithbao.com",
+    "port": 52144,
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
